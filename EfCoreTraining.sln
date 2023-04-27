@@ -31,7 +31,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Updating_Related_Data", "Up
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Deleting_Related_Data", "Deleting_Related_Data\Deleting_Related_Data.csproj", "{3549D015-D6E3-4CEC-A588-8344524F315F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backing_Fields", "Backing_Fields\Backing_Fields.csproj", "{81A31203-D11A-49F3-8BE2-93AF9FE82C00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Backing_Fields", "Backing_Fields\Backing_Fields.csproj", "{81A31203-D11A-49F3-8BE2-93AF9FE82C00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shadow_Property", "Shadow_Property\Shadow_Property.csproj", "{3C566CE2-4983-4327-B3FE-19DCEC1898D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{81A31203-D11A-49F3-8BE2-93AF9FE82C00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81A31203-D11A-49F3-8BE2-93AF9FE82C00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81A31203-D11A-49F3-8BE2-93AF9FE82C00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C566CE2-4983-4327-B3FE-19DCEC1898D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C566CE2-4983-4327-B3FE-19DCEC1898D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C566CE2-4983-4327-B3FE-19DCEC1898D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C566CE2-4983-4327-B3FE-19DCEC1898D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
