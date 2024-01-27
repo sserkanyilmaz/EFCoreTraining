@@ -6,7 +6,9 @@ public class ETicaretContext : DbContext
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
         //Provider 
-        optionsBuilder.UseSqlServer("server = (localdb)\\MSSQLLocalDB;Database=ETicaretDb");
+        optionsBuilder.UseSqlServer("Server=localhost;Initial Catalog=test;User=SA;Password=reallyStrongPwd123;;TrustServerCertificate=true");
+
+
         //Connection String
         //Lazy Loading 
         //vb..

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{5713D80F-D6C6-4946-8A41-48D27BD1C539}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lesson9/Program.cs">
+    <Files>
+      <File FileName="Lesson9/Program.cs" Line="10" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EfCoreTraining">
+            <Node name="Lesson9" expanded="True">
+              <Node name="Migrations" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EF__Core__In__Memory__Database FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Lesson9 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+</Properties>

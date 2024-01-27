@@ -1,31 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mains\\OneDrive\\Belgeler\\github\\EFCoreTraining\\Updating_Related_Data\\Updating_Related_Data.csproj": {}
+    "/Users/serkanyilmaz/Documents/GitHub/EFCoreTraining/Updating_Related_Data/Updating_Related_Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mains\\OneDrive\\Belgeler\\github\\EFCoreTraining\\Updating_Related_Data\\Updating_Related_Data.csproj": {
+    "/Users/serkanyilmaz/Documents/GitHub/EFCoreTraining/Updating_Related_Data/Updating_Related_Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mains\\OneDrive\\Belgeler\\github\\EFCoreTraining\\Updating_Related_Data\\Updating_Related_Data.csproj",
+        "projectUniqueName": "/Users/serkanyilmaz/Documents/GitHub/EFCoreTraining/Updating_Related_Data/Updating_Related_Data.csproj",
         "projectName": "Updating_Related_Data",
-        "projectPath": "C:\\Users\\mains\\OneDrive\\Belgeler\\github\\EFCoreTraining\\Updating_Related_Data\\Updating_Related_Data.csproj",
-        "packagesPath": "C:\\Users\\mains\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mains\\OneDrive\\Belgeler\\github\\EFCoreTraining\\Updating_Related_Data\\obj\\",
+        "projectPath": "/Users/serkanyilmaz/Documents/GitHub/EFCoreTraining/Updating_Related_Data/Updating_Related_Data.csproj",
+        "packagesPath": "/Users/serkanyilmaz/.nuget/packages/",
+        "outputPath": "/Users/serkanyilmaz/Documents/GitHub/EFCoreTraining/Updating_Related_Data/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\mains\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/serkanyilmaz/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -75,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.312/RuntimeIdentifierGraph.json"
         }
       }
     }

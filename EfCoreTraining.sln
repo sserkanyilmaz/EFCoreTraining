@@ -35,6 +35,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Backing_Fields", "Backing_F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shadow_Property", "Shadow_Property\Shadow_Property.csproj", "{3C566CE2-4983-4327-B3FE-19DCEC1898D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF_Core_In_Memory_Database", "EF_Core_In_Memory_Database\EF_Core_In_Memory_Database.csproj", "{D12EC809-9837-45D4-82E1-B48240762118}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{3C566CE2-4983-4327-B3FE-19DCEC1898D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C566CE2-4983-4327-B3FE-19DCEC1898D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C566CE2-4983-4327-B3FE-19DCEC1898D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D12EC809-9837-45D4-82E1-B48240762118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D12EC809-9837-45D4-82E1-B48240762118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D12EC809-9837-45D4-82E1-B48240762118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D12EC809-9837-45D4-82E1-B48240762118}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
